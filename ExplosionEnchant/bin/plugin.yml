@@ -1,0 +1,8 @@
+main: me.abein.ExplosionEnchant.Main
+name: ExplosionEnchant
+version: 1.0
+author: abein
+
+commands:
+  explosion:
+  
